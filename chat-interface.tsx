@@ -67,7 +67,7 @@ interface MessageSection {
 
 // FIX: Hardcoded API key as per user request.
 const API_KEY = "AIzaSyB8SXJ88QBFrg56hNa8RuGXhRrnY3wVmlc";
-const GEMINI_MODEL_NAME = 'gemini-2.0-flash';
+const GEMINI_MODEL_NAME = 'gemini-2.5-pro-preview-05-06';
 
 const GEMINI_SYSTEM_INSTRUCTION = `STRUCTURAL RULES
  One thought = one sentence
